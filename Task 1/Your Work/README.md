@@ -148,7 +148,8 @@ Linux
 MacOS
 The system should support cloud deployment
 4. System Models
-CONTEXT DIAGRAM
+ER diagram
+<img src="images/ER Diagram.png"
 
 The system interacts with:
 
