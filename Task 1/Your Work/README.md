@@ -327,7 +327,7 @@ Illustrates communication between:
 * Department
 * Reports
 
----
+-<img src="images/ER Diagram.png">
 
 ## STATE DIAGRAM
 
@@ -390,6 +390,4 @@ The database must maintain relationships between:
 * Employees and Departments
 * Admin and Employee Records
 * Employee Information and Reports
-
-<img src="images/ER Diagram.png">
 
